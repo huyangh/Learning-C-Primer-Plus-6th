@@ -5,6 +5,7 @@
 void bubble_sort(int arr[], int len);
 void selection_sort(int arr[], int len);
 void insertion_sort(int arr[], int len);
+void quick_sort(int arr[], int len);
 
 int main() {
 
@@ -20,7 +21,8 @@ int main() {
 
 //    bubble_sort(arr, len);
 //    selection_sort(arr, len);
-    insertion_sort(arr, len);
+//    insertion_sort(arr, len);
+    quick_sort(arr,len);
 
     for (int i = 0; i < len; i++)
         printf("%d ", arr[i]);
