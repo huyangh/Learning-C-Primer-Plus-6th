@@ -1,29 +1,36 @@
-void example1();
-void example5();
-void example10();
-void for_char();
-void example13();
-void example17();
-void example19();
+//
+// Created by  huyangh on 2020/5/15.
 
-void practice1();
-void practice2();
-void practice3();
-void practice4();
-void practice5();
-void practice6();
-void practice7();
-void practice8();
-void practice12();
+#include "chap6.h"
 
 int main() {
 //    example1();
+//    example2();
+//    example3();
+//    example4();
 //    example5();
+//    example6();
+//    example7();
+//    example8();
+//    example9();
 //    example10();
+//    example11();
+//    example12();
+//    for_down();
 //    for_char();
+//    for_wild();
+//    for_none();
+//    for_show();
+
 //    example13();
+//    example14();
+//    example15();
+//    example16();
 //    example17();
+//    example18();
 //    example19();
+//    example20();
+
 //    practice1();
 //    practice2();
 //    practice3();
@@ -32,6 +39,9 @@ int main() {
 //    practice6();
 //    practice7();
 //    practice8();
-    practice12();
+//    practice9();
+//    practice10();
+//    practice11();
+//    practice12();
     return 0;
 }

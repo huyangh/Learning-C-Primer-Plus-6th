@@ -1,5 +1,5 @@
 //
-// Created by huyan on 2020/5/16.
+// Created by  huyangh on 2020/5/16.
 //
 //power()函数返回一个double类型数的正整数
 //次幂。改进该函数，使其能正确计算负幂。另外，函数要处理0的任何次幂

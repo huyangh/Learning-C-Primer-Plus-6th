@@ -1,5 +1,5 @@
 //
-// Created by huyan on 2020/5/24.
+// Created by  huyangh on 2020/5/24.
 // 把鞋码转换为英寸（不用循环）
 #include <stdio.h>
 #define ADJUST 7.31

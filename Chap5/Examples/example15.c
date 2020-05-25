@@ -1,5 +1,5 @@
 //
-// Created by huyan on 2020/5/24.
+// Created by  huyangh on 2020/5/24.
 //定义一个带一个参数的函数
 #include <stdio.h>
 void pound(int n);// ANSI函数原型声明

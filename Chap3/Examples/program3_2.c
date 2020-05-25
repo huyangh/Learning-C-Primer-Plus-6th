@@ -1,5 +1,5 @@
 //
-// Created by huyan on 2020/5/14.
+// Created by  huyangh on 2020/5/14.
 // printf()的一些特性
 //
 #include <stdio.h>

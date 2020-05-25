@@ -1,5 +1,5 @@
 //
-// Created by huyan on 2020/5/15.
+// Created by  huyangh on 2020/5/15.
 //
 // 以二进制打印整数（递归） -- 利用倒序特性
 

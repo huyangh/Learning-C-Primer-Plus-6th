@@ -1,5 +1,5 @@
 //
-// Created by huyan on 2020/5/24.
+// Created by  huyangh on 2020/5/24.
 //自动类型转换
 #include <stdio.h>
 void example14(){

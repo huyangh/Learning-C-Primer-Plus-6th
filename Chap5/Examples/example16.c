@@ -1,5 +1,5 @@
 //
-// Created by huyan on 2020/5/24.
+// Created by  huyangh on 2020/5/24.
 //A useful program for runners
 #include <stdio.h>
 const int S_PER_M = 60;        // 1分钟的秒数

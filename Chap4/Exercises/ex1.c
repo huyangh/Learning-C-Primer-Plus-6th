@@ -1,5 +1,5 @@
 //
-// Created by huyan on 2020/5/15.
+// Created by  huyangh on 2020/5/15.
 //
 // 编写一个程序，提示用户输入名和姓，然后以“名,姓”的格式打印出来。
 

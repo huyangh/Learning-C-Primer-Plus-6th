@@ -1,5 +1,5 @@
 //
-// Created by huyan on 2020/5/14.
+// Created by  huyangh on 2020/5/14.
 //
 // 使用不同类型的字符串
 #include <stdio.h>

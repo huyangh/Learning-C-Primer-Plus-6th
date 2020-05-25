@@ -1,5 +1,5 @@
 //
-// Created by huyan on 2020/5/16.
+// Created by  huyangh on 2020/5/16.
 //
 // 使用rand1()和srand1()
 static unsigned long int next = 1;               //seed

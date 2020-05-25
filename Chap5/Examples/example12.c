@@ -1,5 +1,5 @@
 //
-// Created by huyan on 2020/5/24.
+// Created by  huyangh on 2020/5/24.
 //递减运算符
 #include <stdio.h>
 #define MAX 100

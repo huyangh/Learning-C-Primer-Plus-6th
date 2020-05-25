@@ -1,5 +1,5 @@
 //
-// Created by huyan on 2020/5/24.
+// Created by  huyangh on 2020/5/24.
 //递增：前缀和后缀
 #include <stdio.h>
 void example10(){

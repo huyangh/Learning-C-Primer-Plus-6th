@@ -1,5 +1,5 @@
 //
-// Created by huyan on 2020/5/24.
+// Created by  huyangh on 2020/5/24.
 //使用sizeof运算符
 //使用C99新增的%zd转换说明 -- 如果编译器不支持%zd，请将其改成%u或%lu
 #include <stdio.h>

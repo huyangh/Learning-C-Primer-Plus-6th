@@ -1,5 +1,5 @@
 //
-// Created by huyan on 2020/5/24.
+// Created by  huyangh on 2020/5/24.
 //编写一个程序，提示用户输入一个身高（单位：厘米），并分别以厘米和英寸为单位显示该值，
 //允许有小数部分。程序应该能让用户重复输入身高，直到用户输入一个非正值。其输出示例如下：
 //Enter　a　height　in　centimeters:　182

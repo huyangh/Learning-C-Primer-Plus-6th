@@ -1,5 +1,5 @@
 //
-// Created by huyan on 2020/5/16.
+// Created by  huyangh on 2020/5/16.
 //
 // 生成随机数 0~32767 （伪随机）
 

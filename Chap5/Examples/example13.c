@@ -1,5 +1,5 @@
 //
-// Created by huyan on 2020/5/24.
+// Created by  huyangh on 2020/5/24.
 //几种常见的语句
 #include <stdio.h>
 void example13(){       /* 计算前20个整数的和　 */

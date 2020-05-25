@@ -1,5 +1,5 @@
 //
-// Created by huyan on 2020/5/14.
+// Created by  huyangh on 2020/5/14.
 // your weight in platinum
 #include <stdio.h>
 void program3_1(void){

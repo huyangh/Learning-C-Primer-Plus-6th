@@ -1,5 +1,5 @@
 //
-// Created by huyan on 2020/5/14.
+// Created by  huyangh on 2020/5/14.
 // 显示字符对应的整数值
 //
 #include <stdio.h>

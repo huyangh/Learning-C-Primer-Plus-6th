@@ -1,5 +1,5 @@
 //
-// Created by huyan on 2020/5/24.
+// Created by  huyangh on 2020/5/24.
 //计算多个不同鞋码对应的脚长
 #include <stdio.h>
 #define ADJUST 7.31

@@ -1,5 +1,5 @@
 //
-// Created by huyan on 2020/5/14.
+// Created by  huyangh on 2020/5/14.
 // 以十进制、八进制、十六进制打印十进制数100
 #include <stdio.h>
 

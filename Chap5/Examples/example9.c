@@ -1,5 +1,5 @@
 //
-// Created by huyan on 2020/5/24.
+// Created by  huyangh on 2020/5/24.
 //把秒数转换成分和秒
 #include <stdio.h>
 #define SEC_PER_MIN 60      // 1分钟60秒

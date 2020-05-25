@@ -1,5 +1,5 @@
 //
-// Created by huyan on 2020/5/15.
+// Created by  huyangh on 2020/5/15.
 //
 //编写一个程序，提示用户输入天数，然后将其转换成周数和天数。例如，用户输入18，则转换成2周4天。
 // 以下面的格式显示结果：18 days are 2 weeks, 4 days.

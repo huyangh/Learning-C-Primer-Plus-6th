@@ -1,5 +1,5 @@
 //
-// Created by huyan on 2020/5/24.
+// Created by  huyangh on 2020/5/24.
 // 计算1～20的平方
 #include <stdio.h>
 void example4() {
