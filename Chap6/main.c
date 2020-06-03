@@ -40,7 +40,7 @@ int main() {
 //    practice7();
 //    practice8();
 //    practice9();
-//    practice10();
+    practice10();
 //    practice11();
 //    practice12();
     return 0;
